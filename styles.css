@@ -1,12 +1,37 @@
+body{
+   
+    width: 100%;
+    height: 100%;
+    margin: 0 auto;
+    padding: 0 auto;
+}
 
 .header{
 
 width: 100%;
-height: 15%;
-background: lightgray;
+height: 30%;
+background: rgb(139, 117, 117);
 
 
 }
+
+.nav{
+width: 100%;
+height: 20%;
+background: white;
+
+}
+
+.content{
+width: 100%;
+height: 50%;
+background: rgb(139, 117, 117);
+
+}
+
+
+
+
 
 #headericon{
 width: 65%;
@@ -14,18 +39,10 @@ height: 100%;
 padding-left: 60px;
 font-family: 'Playfair Display', serif;
 font-weight: bold;
-color: gray;
+color: white;
 padding-top: 20px;
 
 }
 
 
 /*-----------------------------------*/
-
-.content{
-width: 100%;
-height: auto;
-background: lightgray;
-}
-
-
