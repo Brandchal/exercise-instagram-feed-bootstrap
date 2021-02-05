@@ -11,7 +11,7 @@ display: flex;
 }
 
 #headericon{
-width: 25%;
+width: 65%;
 height: 100%;
 padding-left: 60px;
 padding-top: 30px;
@@ -23,11 +23,17 @@ color: gray;
 
 
 #headerbutton{
+width: 20%;
+height: 100%;
 
+}
+.btn-primary{
+background: greenyellow;
 }
 
 #headeroption{
-
+width: 15%;
+height: 100%;
 }
 
 
